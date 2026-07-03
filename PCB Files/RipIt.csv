@@ -1,0 +1,10 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Serial/Part Number,Description,
+C1,C100nF,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,,08053F104K4T2A,,
+C2,C10uF,~,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,,0805X7R106KT1AT,,
+"D1,D2,D3,D5",LED,~,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,4,,150080RS75000,0805 Red LED,https://www.digikey.com/en/products/detail/w-rth-elektronik/150080RS75000/4489918
+D4,LED,~,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1,,150080AS75000,0805 Amber LED,https://www.digikey.com/en/products/detail/w-rth-elektronik/150080AS75000/11479384
+J1,Conn_01x03_Pin,~,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,1,,801-83-003-20-002101,,https://www.mouser.com/ProductDetail/437-8018300320002101
+"R1,R2,R3,R4,R5",R330,~,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,5,,RE0805DRE07330RL,,
+SW1,SW_Push,~,Badgelife Library:SW_TS04-66-85-BK-160-SMT,1,,TS04-66-50-BK-160-SMT,,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices-/TS04-66-50-BK-160-SMT/15634240
+U1,ATtiny1614-SS,http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny1614-data-sheet-40001995A.pdf,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,1,,556-ATTINY1614-SSN,,
+X1,Badgelife_sao_connector_v169bis,,Badgelife_SAO_v169bis_111:Badgelife-SAOv169-SAO-2x3,1,,SBH11-NBPC-D03-ST-BK,2.54mm 2x3 Pin 6 Pin Straight Male Shrouded PCB Box header IDC Socket,

@@ -1,0 +1,29 @@
+### Footprint positions - created on 2026-06-06T21:35:36-0400 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                              Package                                             PosX       PosY       Rot  Side
+C1        C100nF                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     -29.0600    21.9300   -0.0000  bottom
+C2        C10uF                            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder     -29.0275    19.5900   -0.0000  bottom
+J1        Conn_01x03_Pin                   PinSocket_1x03_P2.54mm_Vertical                 -37.6500    16.6200  180.0000  bottom
+R1        R470                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     -34.9500    28.9000   90.0000  bottom
+R2        R470                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     -38.2600    26.6300  180.0000  bottom
+R3        R470                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     -33.1500    33.4300   90.0000  bottom
+R4        R470                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     -20.9700    34.5900  180.0000  bottom
+R5        R470                             R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     -42.7900    25.3900  180.0000  bottom
+SW1       SW_Push                          SW_TS04-66-85-BK-160-SMT                        -12.5100    29.4400   -0.0000  bottom
+U1        ATtiny1614-SS                    SOIC-14_3.9x8.7mm_P1.27mm                       -27.6225    27.9000   -0.0000  bottom
+D1        LED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -36.4850    58.6200    0.0000  top
+D2        LED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -20.5300    58.5600    0.0000  top
+D3        LED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -10.8700    61.4600    0.0000  top
+D4        LED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -28.4000    36.1100    0.0000  top
+D5        LED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -44.8800    61.9800    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+G***      LOGO                             LOGO                                              0.0000     0.0000    0.0000  top
+X1        Badgelife_sao_connector_v169bis  Badgelife-SAOv169-SAO-2x3                       -27.5800    13.7800    0.0000  top
+## End
